@@ -1,0 +1,8 @@
+Flask
+flask-cors
+SQLAlchemy
+psycopg2-binary
+opencv-python
+dlib
+face_recognition
+face_recognition_models @ git+https://github.com/ageitgey/face_recognition_models.git
